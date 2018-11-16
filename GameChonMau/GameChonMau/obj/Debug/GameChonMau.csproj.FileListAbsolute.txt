@@ -1,0 +1,10 @@
+D:\IT\Project Visual\C#\GameChonMau\GameChonMau\bin\Debug\GameChonMau.exe.config
+D:\IT\Project Visual\C#\GameChonMau\GameChonMau\bin\Debug\GameChonMau.exe
+D:\IT\Project Visual\C#\GameChonMau\GameChonMau\bin\Debug\GameChonMau.pdb
+D:\IT\Project Visual\C#\GameChonMau\GameChonMau\obj\Debug\GameChonMau.csprojAssemblyReference.cache
+D:\IT\Project Visual\C#\GameChonMau\GameChonMau\obj\Debug\GameChonMau.Form1.resources
+D:\IT\Project Visual\C#\GameChonMau\GameChonMau\obj\Debug\GameChonMau.Properties.Resources.resources
+D:\IT\Project Visual\C#\GameChonMau\GameChonMau\obj\Debug\GameChonMau.csproj.GenerateResource.cache
+D:\IT\Project Visual\C#\GameChonMau\GameChonMau\obj\Debug\GameChonMau.csproj.CoreCompileInputs.cache
+D:\IT\Project Visual\C#\GameChonMau\GameChonMau\obj\Debug\GameChonMau.exe
+D:\IT\Project Visual\C#\GameChonMau\GameChonMau\obj\Debug\GameChonMau.pdb
